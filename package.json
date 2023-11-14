@@ -17,6 +17,10 @@
       "title": "Extract JSON Property"
     }]
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Seiphon/json-helper.git"
+  },
   "scripts": {
     "lint": "eslint .",
     "pretest": "yarn run lint",
