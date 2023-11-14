@@ -3,6 +3,7 @@
   "displayName": "json-helper",
   "description": "This is a helpful tool to extract data from json file",
   "version": "0.0.1",
+  "publisher": "SeiphonWang",
   "engines": {
     "vscode": "^1.84.0"
   },
