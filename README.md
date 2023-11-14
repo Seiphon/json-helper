@@ -1,4 +1,4 @@
-# JSON-Helper
+# JSON-Data-Extracter
 
 This is a JSON tools to extract data from JSON file.
 

@@ -1,6 +1,6 @@
 {
-  "name": "json-helper",
-  "displayName": "json-helper",
+  "name": "json-data-extracter",
+  "displayName": "json-data-extracter",
   "description": "This is a helpful tool to extract data from json file",
   "version": "0.0.1",
   "publisher": "SeiphonWang",
@@ -14,7 +14,7 @@
   "main": "./extension.js",
   "contributes": {
     "commands": [{
-      "command": "json-helper.extract",
+      "command": "json-data-extracter.extract",
       "title": "Extract JSON Property"
     }]
   },

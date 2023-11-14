@@ -9,7 +9,7 @@ function activate(context) {
 
 	console.log('Congratulations, your extension "json-helper" is now active!');
 
-	let disposable = vscode.commands.registerCommand('json-helper.extract', function () {
+	let disposable = vscode.commands.registerCommand('json-data-extracter.extract', function () {
 		vscode.window.showInputBox({ prompt: 'Enter property name to extract' }).then(
 			property => {
 				if (property) {
